@@ -1,5 +1,5 @@
 # electron-poc
-A basic timer application available as web as well as native for desktop made using electron 
+A POC made for understanding integration of Electron and Angular to make native desktop apps 
 
 for video tutorial for making this app , please refer to the folowing link :
 
